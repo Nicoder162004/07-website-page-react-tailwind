@@ -1,16 +1,16 @@
-# React + Vite
+# Hero Section Component in React + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I have completed building a **Hero section** in React, fully styled with **Tailwind CSS** and powered via **props** for dynamic content.  
+This project uses both **Atomic Design** and **Feature/Composition Design**, helping me build **scalable and maintainable UI components**.
 
-Currently, two official plugins are available:
+## What I Learned and Implemented
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Using **props** to make components reusable and dynamic.
+- ✅ Applying **Atomic Design**: breaking the UI into **atoms**, **molecules**, and **organisms**.
+- ✅ Using **Feature/Composition Design** for better project organization and scalability.
+- ✅ Leveraging **Tailwind CSS** for rapid styling and responsive design.
+- ✅ Improved understanding of **component reusability, modularity, and design patterns** in React.
+ 
+---
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I’d love to hear your thoughts! Let’s connect, share ideas, and grow together. 🌱
